@@ -5,7 +5,7 @@
 
 
  .bounding-box{
-    position: relative; /*relative*/
+    position: absolute; /*relative*/
     width: 312px;
     height: 312px;
     background: white;
