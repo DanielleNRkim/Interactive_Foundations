@@ -1,0 +1,46 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 40C11.0457 40 20 48.9543 20 60C20 48.9543 28.9543 40 40 40H0Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 80C28.9543 80 20 71.0457 20 60C20 71.0457 11.0457 80 0 80L40 80Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 80C11.0457 80 20 88.9543 20 100C20 88.9543 28.9543 80 40 80H0Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 120C28.9543 120 20 111.046 20 100C20 111.046 11.0457 120 0 120H40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 120C11.0457 120 20 128.954 20 140C20 128.954 28.9543 120 40 120H0Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 160C28.9543 160 20 151.046 20 140C20 151.046 11.0457 160 0 160H40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 160C11.0457 160 20 168.954 20 180C20 168.954 28.9543 160 40 160H0Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 200C28.9543 200 20 191.046 20 180C20 191.046 11.0457 200 0 200H40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 200C11.0457 200 20 208.954 20 220C20 208.954 28.9543 200 40 200H0Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 240C28.9543 240 20 231.046 20 220C20 231.046 11.0457 240 0 240H40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 200C51.0457 200 60 208.954 60 220C60 208.954 68.9543 200 80 200H40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 240C68.9543 240 60 231.046 60 220C60 231.046 51.0457 240 40 240H80Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M111 200C122.046 200 131 208.954 131 220C131 208.954 139.954 200 151 200H111Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M151 240C139.954 240 131 231.046 131 220C131 231.046 122.046 240 111 240H151Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M120 200C131.046 200 140 208.954 140 220C140 208.954 148.954 200 160 200H120Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M160 240C148.954 240 140 231.046 140 220C140 231.046 131.046 240 120 240H160Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M153 200C164.046 200 173 208.954 173 220C173 208.954 181.954 200 193 200H153Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M193 240C181.954 240 173 231.046 173 220C173 231.046 164.046 240 153 240H193Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0C11.0457 0 20 8.9543 20 20C20 8.9543 28.9543 0 40 0H0Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 40C28.9543 40 20 31.0457 20 20C20 31.0457 11.0457 40 0 40L40 40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M71 0C82.0457 0 91 8.9543 91 20C91 8.9543 99.9543 0 111 0H71Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M111 40C99.9543 40 91 31.0457 91 20C91 31.0457 82.0457 40 71 40L111 40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 0C91.0457 0 100 8.9543 100 20C100 8.9543 108.954 0 120 0H80Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M120 40C108.954 40 100 31.0457 100 20C100 31.0457 91.0457 40 80 40L120 40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M100 0C111.046 0 120 8.9543 120 20C120 8.9543 128.954 0 140 0H100Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140 40C128.954 40 120 31.0457 120 20C120 31.0457 111.046 40 100 40L140 40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M160 0C171.046 0 180 8.9543 180 20C180 8.9543 188.954 0 200 0H160Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 40C188.954 40 180 31.0457 180 20C180 31.0457 171.046 40 160 40L200 40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 0C211.046 0 220 8.9543 220 20C220 8.9543 228.954 0 240 0H200Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 40C228.954 40 220 31.0457 220 20C220 31.0457 211.046 40 200 40L240 40Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 40C211.046 40 220 48.9543 220 60C220 48.9543 228.954 40 240 40H200Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 80C228.954 80 220 71.0457 220 60C220 71.0457 211.046 80 200 80H240Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 40C191.046 40 200 48.9543 200 60C200 48.9543 208.954 40 220 40H180Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M220 80C208.954 80 200 71.0457 200 60C200 71.0457 191.046 80 180 80L220 80Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 40C31.0457 40 40 48.9543 40 60C40 48.9543 48.9543 40 60 40H20Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60 80C48.9543 80 40 71.0457 40 60C40 71.0457 31.0457 80 20 80H60Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 160C191.046 160 200 168.954 200 180C200 168.954 208.954 160 220 160H180Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M220 200C208.954 200 200 191.046 200 180C200 191.046 191.046 200 180 200H220Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 160C31.0457 160 40 168.954 40 180C40 168.954 48.9543 160 60 160H20Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60 200C48.9543 200 40 191.046 40 180C40 191.046 31.0457 200 20 200H60Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 200C211.046 200 220 208.954 220 220C220 208.954 228.954 200 240 200H200Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 240C228.954 240 220 231.046 220 220C220 231.046 211.046 240 200 240H240Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 160C211.046 160 220 168.954 220 180C220 168.954 228.954 160 240 160H200Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240 200C228.954 200 220 191.046 220 180C220 191.046 211.046 200 200 200H240Z" fill="black"/>
+</svg>
