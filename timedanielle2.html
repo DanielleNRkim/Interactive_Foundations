@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" type="text/css" href="style2.css">
+  <title>Time Sample</title>
+
+  
+
+</head>
+
+<body>
+
+<div id="grid">
+
+  <div id="japan" class="gradient">japan</div>
+  <div id="belgium" class="gradient">belgium</div>
+  <div id="bulgaria" class="gradient">bulgaria</div>
+  <div id="france" class="gradient">france</div>
+  <div id="ireland" class="gradient">ireland</div>
+  <div id="romania" class="gradient">romania</div>
+  <div id="spain" class="gradient">spain</div>
+  <div id="sweden" class="gradient">sweden</div>
+ 
+</div>
+
+
+  <script>
+
+    var d = new Date(); // for now
+    d.getHours(); // => hr
+    d.getMinutes(); // =>  min
+    d.getSeconds(); // => sec
+
+    //alert(d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds());
+    console.log(d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds());
+
+    // add daytime
+    if(d.getHours() <= 18 && d.getHours() >= 6){
+      document.getElementsByTagName('body')[0].classList.add('daytime');
+    }
+
+    // add night time
+    if(d.getHours() >= 18 && d.getHours() <= 6){
+      document.getElementsByTagName('body')[0].classList.add('nighttime');
+    }
+
+  </script>
+
+</body>
+
+</html>
